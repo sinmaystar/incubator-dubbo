@@ -32,6 +32,8 @@
         <module>dubbo-demo-api</module>
         <module>dubbo-demo-provider</module>
         <module>dubbo-demo-consumer</module>
+        <module>switch-thread</module>
+        <module>dubbo-demo-switch-thread</module>
     </modules>
 
     <dependencyManagement>
